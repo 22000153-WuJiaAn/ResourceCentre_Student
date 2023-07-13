@@ -9,7 +9,7 @@ import org.junit.Test;
 // ella chandra
 // jia an
 // donovan
-
+// Wei Le
 public class ResourceCentreTest {
 	// prepare test data
 	private Camcorder cc1;
